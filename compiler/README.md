@@ -2,7 +2,7 @@
 
 The source of the functional language **Goat** in F#: lexer, parser (FParsec), desugaring, tree-walking interpreter, standard library, REPL, and CLI.
 
-For the full feature, syntax, and standard-library reference, see the [root README](../README.md) and the [documentation site](https://goatwhistle.github.io/goat-lang/).
+For the full feature, syntax, and standard-library reference, see the [root README](../README.md) and the [documentation](../docs/README.md).
 
 ## Requirements
 
